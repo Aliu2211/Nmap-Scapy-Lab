@@ -182,8 +182,11 @@ cat /etc/resolv.conf
 
 **Screenshot:**
 
-![Network Config](screenshots/network-config.png)
+![Network Config-1](screenshots/network-config.png)
 
+![Network Config-2](screenshots/network-config-2.png)
+
+![Network Config-3](screenshots/network-config-3.png)
 ---
 
 ## 📡 Part 3: Packet Capture with Tcpdump
