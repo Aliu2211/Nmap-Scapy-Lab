@@ -133,7 +133,9 @@ nmap --script smb-enum-shares.nse -p445 10.6.6.23
 
 **Screenshot:**
 
-![SMB Enumeration](screenshots/nmap-smb-enum.png)
+![SMB Enumeration-1](screenshots/nmap-smb-enum-1.png)
+
+![SMB Enumeration-2](screenshots/nmap-smb-enum-2.png)
 
 ---
 
@@ -209,8 +211,8 @@ wireshark ladies.pcap
 
 **Screenshot:**
 
-![Tcpdump Capture](screenshots/tcpdump-capture.png)
-
+![Tcpdump Capture-1](screenshots/tcpdump-capture-1.png)
+![Tcpdump Capture-2](screenshots/tcpdump-capture-2.png)
 ---
 
 ## 🐍 Part 4: Scapy Packet Analysis
@@ -252,7 +254,7 @@ paro.summary()
 
 **Screenshot:**
 
-![Scapy Basic](screenshots/scapy-basic-sniff.png)
+![Scapy Basic](screenshots/scapy-basic-sniff-1.png)
 
 ---
 
@@ -352,8 +354,8 @@ paro3[3]
 **Aliu Tijani**  
 Ethical Hacking Student | ParoCyber Training Program
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR-GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aliutijani)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/aliu2211)
 
 ---
 
@@ -363,4 +365,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Created as part of ParoCyber Ethical Hacking Training — December 2024*
+*Created as part of ParoCyber Ethical Hacking Training — December 2025*
